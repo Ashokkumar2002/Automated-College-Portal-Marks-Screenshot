@@ -14,7 +14,6 @@ This automation script is designed to simplify the task of retrieving academic p
 
 ## Requirements
 
-- Python 3.x
 - Selenium
 - Web browser driver (e.g., ChromeDriver, GeckoDriver)
 
